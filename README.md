@@ -9,7 +9,7 @@ This is a simple Flask API to manage patients, using SQLite as the database.
   
    `git clone https://github.com/Lemar00/docker-lab.git`
    
-   `cd flask-patient-sqlite-app`
+   `cd docker-lab`
 
 3. Build and run the app with Docker Compose:
    
