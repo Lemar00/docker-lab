@@ -15,7 +15,7 @@ This is a simple Flask API to manage patients, using SQLite as the database.
    
 	`docker-compose up --build`
 
-5. Access the API at http://localhost:5000.
+5. Access the API at http://127.0.0.1:8080. 
 
 
 
